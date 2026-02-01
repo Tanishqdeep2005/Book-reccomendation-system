@@ -30,13 +30,14 @@ Book-Recommender-System/
 ## Installation
 
 1. Clone the repository:
-   git clone git clone https://github.com/Tanishqdeep2005/Book-reccomendation-system.git 
+   git clone git clone https://github.com/Tanishqdeep2005/Book-reccomendation-system.git
+   
    cd book-recommender-system  
 
-2. Install dependencies:
+3. Install dependencies:
    pip install -r requirements.txt  
 
-3. Run the application:
+4. Run the application:
    streamlit run app.py  
 
 ## How It Works
