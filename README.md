@@ -30,7 +30,7 @@ Book-Recommender-System/
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/book-recommender-system.git  
+   git clone git clone https://github.com/Tanishqdeep2005/Book-reccomendation-system.git 
    cd book-recommender-system  
 
 2. Install dependencies:
